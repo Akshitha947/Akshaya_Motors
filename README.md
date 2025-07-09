@@ -13,6 +13,10 @@ CSS3 – Styling, responsiveness, and theme
 
 
 ![HomePage](https://github.com/user-attachments/assets/68199396-0c99-400f-8f59-ec09dc2c564e)
-![help](https://github.com/user-attachments/assets/9c04d3e8-4918-44a9-9096-03e91666b447)
+![bikes](https://github.com/user-attachments/assets/a7469c4e-0e15-4ab1-9b3d-72c457575abe)
+![book a test ride](https://github.com/user-attachments/assets/f3793cd1-643f-438f-90e0-9ece3ca029b9)
+![loginpage](https://github.com/user-attachments/assets/277c487f-a65f-4bb4-8201-a38ccbcf9365)
+![help](https://github.com/user-attachments/assets/a75de923-0900-42c8-ba31-2eee7c855eac)
+
 
 
